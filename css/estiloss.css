@@ -52,7 +52,12 @@
      font-family: arial;
      font-style: italic;
      color:black;
-     background-color: white;
-     text-align: center;
+     text-shadow: 1px 1px 1px white;
+   }
+   .oi{
+     display: flex;
+     justify-content: center;
+     text-align: left;
+     width: 100%;
 
    }
